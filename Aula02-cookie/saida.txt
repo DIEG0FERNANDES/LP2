@@ -1,0 +1,4 @@
+
+> Aula02@1.0.0 dev C:\Users\Usuario\Documents\LP2\Aula02-cookie
+> babel-node src/index.js
+

@@ -1,8 +1,7 @@
 var a = 1;
 var b = 2;
-var c = a + b;
 const c = a + b;
 console.log(c);
-a = 4;
+a = 5;
 c = a + b;
 console.log(c);
